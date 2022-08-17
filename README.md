@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, this is Sayeef! 
+
+| [Google Scholar](https://scholar.google.com/citations?user=P0AcviIAAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Mohammad-Sayeef-Alam) | [ORCID](https://orcid.org/0000-0002-1478-5975) | [Twitter](https://twitter.com/sayeef_alam) | [Personal webpage](https://msa.github.io/) | 
+
+I am an applied statistician interested in problems arising from genetics, computer science and public health disciplines. To be more specific, I am interesed in statistical applications in genetic epidemiology, economic evaluations, and quantitative social sciences. 
+
+A lot of what I work on has to do with large random graphs (networks). A convenient choice of a random graph is the configuration model, which allows prescribed degrees (the number of connections). You just pair the edges uniformly at random to generate the graph! I like to consider processes that run _on_ the graph (e.g., spread of disease/virus, information) and ponder what would happen when the graph grows bigger and bigger. If I can figure out the limit, I like to use it to do statistical inference. Turns out _Dynamic Survival Analysis (DSA)_ is a cool way to do that! Cool because it allows you to extract probability distributions out of dynamical systems and do parameter inference based on a random sample of observations! 
+
+<p align="center"> ### Interested to learn more about my profile?  Visit my personal page [here](https://msa.github.io/).</p>
 
 <!--
 **alamsayeef/alamsayeef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
