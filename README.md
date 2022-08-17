@@ -6,7 +6,7 @@ I am an applied statistician interested in problems arising from genetics, compu
 
 A lot of what I work on has to do with large random graphs (networks). A convenient choice of a random graph is the configuration model, which allows prescribed degrees (the number of connections). You just pair the edges uniformly at random to generate the graph! I like to consider processes that run _on_ the graph (e.g., spread of disease/virus, information) and ponder what would happen when the graph grows bigger and bigger. If I can figure out the limit, I like to use it to do statistical inference. Turns out _Dynamic Survival Analysis (DSA)_ is a cool way to do that! Cool because it allows you to extract probability distributions out of dynamical systems and do parameter inference based on a random sample of observations! 
 
-<p align="center"> ### Interested to learn more about my profile?  Visit my personal page [here](https://msa.github.io/).</p>
+<p align="center"> ### Interested to learn more about my profile?  Visit my personal page <a href="https://msa.github.io/">here</a>.</p>
 
 <!--
 **alamsayeef/alamsayeef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
