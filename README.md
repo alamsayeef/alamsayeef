@@ -6,7 +6,7 @@ I am an applied statistician interested in genetics, health economics outcomes a
 
 A lot of what I currently work on has to do with precision medicine; specifically with generating genetic risk scores (a.k.a. PRS). A PRS is a nothing but the representation of the total number of genetic variants that an individual carries. It can be used to assess the degree of heritable risk for a particular disease. I am fascinated with it because of its application, it can be used for enhance screening, it also helps in risk stratification of the sample and which in turn would help in providing an early intervention. Overall its clinical outcome would help ameliorate individual's health status. I am avid programmer and enjoy discussing about statistically feasible approaches to uncommon problems people have. I guess it helps clarify your own concepts and provides a sense of confidence. I have experience working as an associate at Parexel, where we developed economics evaluation models, dynamic dashboards and conducted network meta analysis, matching adjusted treatment comparison and also simulated treatment comparison to satisfy client requirements. I take special interest in R, though I am adequately versed with other statistical programming software.
 
-<p align="center"> <!--Interested to learn more about my me?  Visit--> My personal page coming soon! <!--<a href="https://msa.github.io/">here</a>-->.</p>
+<p align="center"> <!--Interested to learn more about my me?  Visit--> My personal page coming soon! <!--<a href="https://msa.github.io/">here</a>.--></p>
 
 <!--
 **alamsayeef/alamsayeef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
