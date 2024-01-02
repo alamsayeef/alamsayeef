@@ -8,4 +8,4 @@ A lot of what I currently work on has to do with precision medicine; specificall
 
 I am avid programmer and enjoy discussing about statistically feasible approaches to unique problems with data that usually arises among non-statisticians. I have experience working as an associate at Parexel, where we developed Shiny applications in R which could conduct and visualize economics evaluation methods like cost-effectiveness/benifit analysis and also visualized comparative parametric survival models. I also am skilled in building dynamic dashboards, conducting network meta analysis, indirect treatment comparisons. I take special interest in R.
 
-<p align="center"> <!--Interested to learn more about my me?  Visit--> My personal page is <a href="[https://msa.github.io/](https://alamsayeef.github.io/)https://alamsayeef.github.io/">here!</a>.</p>
+<p align="center"> <!--Interested to learn more about my me?  Visit--> My personal page is <a href="[https://msa.github.io/](https://alamsayeef.github.io/)https://alamsayeef.github.io/">here</a>!</p>
