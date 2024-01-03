@@ -4,4 +4,4 @@
 
 I am a pursuing my doctoral research at the Norwegian University of Science and Technology, Trondheim. My doctoral thesis focuses on finding novel association between SNPs and celiac disease, assigning individuals with a polygenetic risk score and finally understanding the gene environmental interaction effect in a high risk cohort setting.
 
-<p align="center"> You can read more <a href="https://alamsayeef.github.io/">here</a>!</p>
+<p align="center"> You can check out my personal website <a href="https://alamsayeef.github.io/">here</a>!</p>
